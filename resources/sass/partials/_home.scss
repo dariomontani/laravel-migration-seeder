@@ -1,0 +1,22 @@
+.container {
+    .top {
+        display: flex;
+        padding: 1em;
+        margin: 1em;
+        line-height: 2em;
+        background-color: aquamarine;
+        p {
+            min-width: 150px;
+        }
+    }
+    .card {
+        display: flex;
+        background-color: bisque;
+        padding: 1em;
+        margin: 1em;
+        line-height: 2em;
+        p {
+            min-width: 150px;
+        }
+    }
+}
